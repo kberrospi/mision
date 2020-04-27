@@ -1,0 +1,9 @@
+.wrapper {
+    width: 800px;
+    margin: 20px auto 0;
+    text-align: center;
+  }
+
+  th{text-align: center;}
+ /*  table { width: 100%; }
+  table th, table td { padding: 7px 5px; border-bottom: 1px solid #ccc; } */
